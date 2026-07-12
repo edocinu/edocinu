@@ -1,16 +1,21 @@
-## Hi there 👋
+__Sophie Black__
+-
 
-<!--
-**weesophieblack/weesophieblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I'm not insane, you are...
 
-Here are some ideas to get you started:
+### Current Project's
+---
+### *Web*
+- Trillium Media (Team & Resources)
+- Trillium Media (Pradio)
+---
+### *Applications*
+- At the time being i have nothing that i am working on regularly.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+- Name ; Sophie Black
+- Age ; 21
+- Location ; Scotland
+- Discord ; edociun
