@@ -18,4 +18,5 @@ __Sophie Black__
 - Name ; Sophie Black
 - Age ; 21
 - Location ; Scotland
-- Discord ; edociun
+- Discord ; edocinu <!-- aparently i cant spell -->
+
